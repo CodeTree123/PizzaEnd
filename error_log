@@ -1,0 +1,12 @@
+[14-Sep-2022 11:46:39 UTC] PHP Warning:  require(/home/codetree/public_html/project/pizzaend.com.bd/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/codetree/public_html/project/pizzaend.com.bd/index.php on line 34
+[14-Sep-2022 11:46:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/codetree/public_html/project/pizzaend.com.bd/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/codetree/public_html/project/pizzaend.com.bd/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/codetree/public_html/project/pizzaend.com.bd/index.php on line 34
+[20-Sep-2022 06:29:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.33. in /home/codetree/public_html/project/pizzaend.com.bd/vendor/composer/platform_check.php on line 24
+[20-Sep-2022 06:31:46 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.33. in /home/codetree/public_html/project/pizzaend.com.bd/vendor/composer/platform_check.php on line 24
+[13-Oct-2022 12:31:12 UTC] PHP Warning:  require(/home/codetree/public_html/project/pizzaend.com.bd/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/codetree/public_html/project/pizzaend.com.bd/index.php on line 34
+[13-Oct-2022 12:31:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/codetree/public_html/project/pizzaend.com.bd/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/codetree/public_html/project/pizzaend.com.bd/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/codetree/public_html/project/pizzaend.com.bd/index.php on line 34
